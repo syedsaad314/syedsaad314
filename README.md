@@ -1,6 +1,18 @@
-## Hi, I'm Syed Saad👋🏻
-## 👨‍💻About Me:
-Bridging the gap between scalable Full Stack architecture and Intelligent AI solutions. Currently an undergraduate Software Engineering (BSSE) student at the Department of Computer Science, University of Karachi (DCS-UBIT). Accredited as a Certified Prompt Engineer by the Dubai Future Foundation, specializing in orchestrating LLMs for high-performance software architecture.<br><br>I am focused on building strong foundations in software development and continuously improving my technical expertise. My approach combines a strong foundation in Object-Oriented Programming with a modern interest in Data Science and AI/ML integration to develop intelligent, user-centric software that helps solving problems using modern computing, intelligence and optimization. My interest lies in Full-Stack Web Development of the Application, where I enjoy working on both front-end and back-end technologies to create reliable and user-focused applications.<br><br>I actively work with Python mainly but also has strong grip with C++, Java, JavaScript, HTML/CSS, and I am consistently sharpening my skills through hands-on practice, problem-solving, and project-based learning. I believe in writing clean, maintainable code and understanding concepts deeply rather than relying solely on tools or frameworks. Alongside web development, I am exploring AI tools and modern development workflows to better adapt to the evolving software industry and enhance productivity. I am self-motivated, disciplined, and committed to continuous learning, with the goal of growing into a well-rounded software engineer capable of contributing effectively to real-world projects and professional teams.
+<div align="center">
+  <h1>Syed Saad Bin Irfan</h1>
+  <p><b>Software Engineering Student & Full-Stack Developer</b></p>
+  
+  <p>
+    <code>Data Science</code> &nbsp;•&nbsp; <code>AI & Machine Learning</code> &nbsp;•&nbsp; <code>Architectural Discipline</code>
+  </p>
+  
+</div>
+
+---
+## 👨‍💻About Me: 
+Bridging the gap between scalable Full Stack architecture and Intelligent AI solutions. Currently an undergraduate Software Engineering (BSSE) student at the Department of Computer Science, University of Karachi (DCS-UBIT). Accredited as a Certified Prompt Engineer by the Dubai Future Foundation, specializing in orchestrating LLMs for high-performance software architecture.
+
+My approach combines a strong foundation in Object-Oriented Programming with a modern interest in Data Science and AI/ML integration to develop intelligent, user-centric software that helps solving problems using modern computing, intelligence and optimization. I am consistently sharpening my skills through hands-on practice, problem-solving, and project-based learning. Alongside web development, I am exploring AI tools and modern development workflows to better adapt to the evolving software industry and enhance productivity. I am committed to continuous learning, with the goal of growing into a well-rounded software engineer capable of contributing effectively to real-world projects and professional teams.
 
 
 ## 🌐 Socials:
@@ -9,14 +21,41 @@ Bridging the gap between scalable Full Stack architecture and Intelligent AI sol
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=syedsaad314&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=syedsaad314&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedsaad314&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syedsaad314&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-readme-stats.shion.dev/api?username=syedsaad314&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=syedsaad314&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedsaad314&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
-### ✍️ Random Dev Quote
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedsaad314&theme=react-dark" alt="Contribution Graph" width="100%" />
+</p>
+
+---
+<br /><br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/abdulrdeveloper/abdulrdeveloper/output/github-contribution-grid-snake-dark.svg" width="98%" />
+</picture>
+</div>
+
+<br />
+
+---
+
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" alt="gifgithub" width="80%" />
+</p>
+
+---
+<a href="https://github.com/syedsaad314" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
