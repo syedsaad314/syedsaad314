@@ -32,10 +32,10 @@ My approach combines a strong foundation in Object-Oriented Programming with a m
   <table border="0">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api?username=syedsaad314&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.shion.dev/api?username=syedsaad314&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="600" />
       </td>
       <td align="center" valign="top">
-        <img src="https://streak-stats.demolab.com/?user=syedsaad314&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" width="400" />
+        <img src="https://streak-stats.demolab.com/?user=syedsaad314&theme=codeSTACKr&hide_border=false" alt="GitHub Streak Stats" width="600" />
       </td>
     </tr>
     <tr>
