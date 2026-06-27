@@ -1,8 +1,7 @@
 <div align="center">
-  <h1>Syed Saad Bin Irfan</h1>
+<h1><b><i>𝕊𝕪𝕖𝕕 𝕊𝕒𝕒𝕕 𝔹𝕚𝕟 𝕀𝕣𝕗𝕒𝕟</i></b></h1>
   <p><b>Software Engineering Student & Full-Stack Developer</b></p>
-  
-  <p>
+   <p>
     <code>Data Science</code> &nbsp;•&nbsp; <code>AI & Machine Learning</code> &nbsp;•&nbsp; <code>Architectural Discipline</code>
   </p>
   
