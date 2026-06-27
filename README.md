@@ -18,7 +18,7 @@ Bridging the gap between scalable Full Stack architecture and Intelligent AI sol
 My approach combines a strong foundation in Object-Oriented Programming with a modern interest in Data Science and AI/ML integration to develop intelligent, user-centric software that helps solving problems using modern computing, intelligence and optimization. I am consistently sharpening my skills through hands-on practice, problem-solving, and project-based learning. Alongside web development, I am exploring AI tools and modern development workflows to better adapt to the evolving software industry and enhance productivity. I am committed to continuous learning, with the goal of growing into a well-rounded software engineer capable of contributing effectively to real-world projects and professional teams.
 
 
-<h2><code>🌐Socials</code> &nbsp;</h2>
+<h2><code>🌐Socials </code> &nbsp;</h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/syed_saad14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-saad-bin-irfan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Affectionate-Cat9708/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedsaadbinirfan14@gmail.com) 
 
