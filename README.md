@@ -11,7 +11,7 @@
 </div>
 
 ---
-<h2><code>👨‍💻About Me</code> &nbsp;</h2>
+<h2><code>👨‍💻About Me </code> &nbsp;</h2>
 
 Bridging the gap between scalable Full Stack architecture and Intelligent AI solutions. Currently an undergraduate Software Engineering (BSSE) student at the Department of Computer Science, University of Karachi (DCS-UBIT). Accredited as a Certified Prompt Engineer by the Dubai Future Foundation, specializing in orchestrating LLMs for high-performance software architecture.
 
