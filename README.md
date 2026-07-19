@@ -138,10 +138,11 @@ My approach combines a strong foundation in Object-Oriented Programming with a m
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" alt="gifgithub" width="80%" />
+  <img src="https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39" alt="gifgithub" width="50%" height="50%" />
 </p>
 
 ---
 <a href="https://github.com/syedsaad314" target="_blank">
-  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" width="30" alt="GitHub Icon">
 </a>
+</p>
