@@ -146,3 +146,4 @@ My approach combines a strong foundation in Object-Oriented Programming with a m
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" width="30" alt="GitHub Icon">
 </a>
 </p>
+<img align="center" src="https://komarev.com/ghpvc/?username=syedsaad314&label=Profile%20Views&color=dc143c&style=flat-square" alt="Profile Views"/>
