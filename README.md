@@ -119,12 +119,6 @@ My approach combines a strong foundation in Object-Oriented Programming with a m
   </table>
 </div>
 
-<h2><code>📈Contribution Graph</code> &nbsp;</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedsaad314&theme=react-dark" alt="Contribution Graph" width="100%" />
-</p>
-
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
