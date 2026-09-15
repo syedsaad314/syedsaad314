@@ -126,7 +126,7 @@ My approach combines a strong foundation in Object-Oriented Programming with a m
 
 ---
 
-<h2><code>✍🏻Dev Quote </code> &nbsp;</h2>
+<h2><code>✍🏻Dev Quote</code> &nbsp;</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
