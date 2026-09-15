@@ -74,7 +74,7 @@ My approach combines a strong foundation in Object-Oriented Programming with a m
     <td align="center"><sub><code>Supabase</code></sub></td>
   </tr>
 
-  <!-- ==================== ROW 3 ==================== -->
+  <!-- ==================== ROW 3  ==================== -->
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="42" alt="Google Cloud" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Vercel" /></td>
