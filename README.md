@@ -23,7 +23,7 @@ Bridging the gap between scalable Full Stack architecture and Intelligent AI sol
 My approach combines a strong foundation in Object-Oriented Programming with a modern interest in Data Science and AI/ML integration to develop intelligent, user-centric software that helps solving problems using modern computing, intelligence and optimization. I am consistently sharpening my skills through hands-on practice, problem-solving, and project-based learning. I am committed to continuous learning, with the goal of growing into a well-rounded software engineer capable of contributing effectively to real-world projects and professional teams.
 
 
-<h2><code>🔗Connect With Me </code> &nbsp;</h2>
+<h2><code>🔗Connect With Me</code> &nbsp;</h2>
 
 <a href="https://www.linkedin.com/in/syed-saad-bin-irfan"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/> <a href="mailto:syedsaadbinirfan14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a> </a> <a href="https://www.instagram.com/syed_saad14"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/> 
 
