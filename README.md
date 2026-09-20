@@ -27,7 +27,7 @@ My approach combines a strong foundation in Object-Oriented Programming with a m
 
 <a href="https://www.linkedin.com/in/syed-saad-bin-irfan"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/> <a href="mailto:syedsaadbinirfan14@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a> </a> <a href="https://www.instagram.com/syed_saad14"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/> 
 
-<h2><code>💻Tech Stack</code> &nbsp;</h2>
+<h2><code>💻Tech Stack </code> &nbsp;</h2>
 
 <table>
   <!-- ==================== ROW 1 ==================== -->
