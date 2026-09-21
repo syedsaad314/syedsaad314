@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/syedsaad314">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=45&height=90&width=1200&text=%F0%9D%95%8A%F0%9D%95%AA%F0%9D%95%96%F0%9D%95%95%20%F0%9D%95%8A%F0%9D%95%92%F0%9D%95%92%F0%9D%95%95%20%F0%9D%94%B9%F0%9D%95%9A%F0%9D%95%9F%20%F0%9D%95%80%F0%9D%95%A3%F0%9D%95%97%F0%9D%95%92%F0%9D%95%9F" alt="𝕊𝕪𝕖𝕕 𝕊𝕒𝕒𝕕 𝔹𝕚𝕟 𝕀𝕣𝕗𝕒𝕟" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=45&height=90&width=1200&text=%F0%9D%95%8A%F0%9D%95%AA%F0%9D%95%96%F0%9D%95%95%20%F0%9D%95%8A%F0%9D%95%92%F0%9D%95%92%F0%9D%95%95%20%F0%9D%94%B9%F0%9D%95%9A%F0%9D%95%9F%20%F0%9D%95%80%F0%9D%95%A3%F0%9D%95%97%F0%9D%95%92%F0%9D%95%9F" alt="𝕊𝕪𝕖𝕕 𝕊𝕒𝕒𝕕 𝔹𝕚𝕟 𝕀𝕣𝕗𝕒𝕟 " />
   </a>
 </p>
 <p align="center">
