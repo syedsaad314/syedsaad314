@@ -97,7 +97,7 @@ My approach combines a strong foundation in Object-Oriented Programming with a m
   </tr>
 </table>
 
-<h2><code>📊GitHub Stats:</code> &nbsp;</h2>
+<h2><code>📊GitHub Stats: </code> &nbsp;</h2>
 
 <div align="center">
   <table>
